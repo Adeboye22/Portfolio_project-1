@@ -9,6 +9,7 @@
 body{
     margin:0px;
 }
+/*Header*/
 nav{
     background-color: #ffffff;
     height: 200px;
@@ -28,6 +29,7 @@ div.iconHeader{
 .iconHeader i{
     margin: 0px 5px;
 }
+/*Navigation bar*/
 .navBarList{
     background-color: #38A3A5;
     font-family:'Poppins';
@@ -45,6 +47,7 @@ div.iconHeader{
     list-style: none;
     color: #ffffff;
 }
+/*Hero section*/
 section.hero{
     padding: 100px 0px 150px 0px;
     background-image: url("/Images/floodImage-4.jpeg");
@@ -86,6 +89,7 @@ button.hero_2{
     color:white;
     cursor: pointer;
 }
+/*About us section*/
 section.aboutUs h1{
     font-family: 'Inter';
     padding:50px 0px 0px 0px;
@@ -97,7 +101,7 @@ section.aboutUs div.aboutUs_1{
     text-align:justify;
     word-spacing: 2px;
     line-height: 25px;
-    padding: 20px 100px 0px 100px;
+    padding: 20px 40px 0px 40px;
     font-size:18px;
 }
 article.aboutUs_2{
@@ -109,10 +113,73 @@ article.aboutUs_2{
     padding:0px 15px 0px 15px;
     width:100%;
     height:300px;
+    position:relative
 }
-section.aboutUs span{
+article.aboutUs_2-overlay{
+    position:absolute;
+    top:0;
+    left:0;
+    height: 100%;
+    width:100%;
+    overflow: hidden;
+    background: rgba(0, 0, 0, 0.244);
+    text-align:center;
+}
+div.aboutUs_3{
+    font-family:'Inter';
+    font-size: 18px;
+    text-align:center;
+    padding: 70px 0px 0px 0px;
+    word-spacing: 2px;
+    width:100%;
+}
+div.aboutUs_4{
+    justify-content: center;
+    padding:30px 0px 0px 0px;
+    margin:0% 0% 0% 45%;
+}
+div.aboutUs_4 button{
+    padding: 10px 30px 10px 30px;
+    border-radius: 4px;
+    border-color: rgba(0, 0, 0, 0);
+    background-color: #22577A;
+    color:white;
     font-family: 'Inter';
     font-size: 18px;
+    word-spacing: 2px;
+    cursor:pointer;
+}
+/*Footer section*/
+footer{
+    border-top: solid 1px rgba(128, 128, 128, 0.242);
+    background-color:#38A3A5;
+    margin:90px 0px 0px 0px;
+    padding:30px 0px 0px 0px;
+}
+.footer_1{
+    font-family: 'Inter';
+    text-align: center;
+    color:white;
+    word-spacing: 2px;
+    padding:0px 10px 0px 0px;
+    margin:0px 0px 30px 0px;
+    font-size: 25px;
+    font-weight:bold;
+    line-height:25px
+}
+.footer_2{
+    font-family: 'Inter';
     text-align:justify;
-    
+    color:white;
+    word-spacing: 2px;
+    font-size: 18px;
+    line-height:25px;
+    padding:0px 40px 0px 40px;
+    margin:0px 0px 30px 0px;
+}
+div.iconFooter{
+    font-family:'Inter';
+    text-align: center;
+    word-spacing: 15px;
+    font-size: 18px;
 }
