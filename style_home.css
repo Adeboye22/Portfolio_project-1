@@ -50,7 +50,7 @@ div.iconHeader{
 /*Hero section*/
 section.hero{
     padding: 100px 0px 150px 0px;
-    background-image: url("/Images/floodImage-4.jpeg");
+    background-image: url("Images/floodImage-4.jpeg");
     background-size:cover;
     width:98%;
     left: 10px;
