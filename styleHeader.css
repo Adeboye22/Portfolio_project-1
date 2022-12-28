@@ -1,0 +1,39 @@
+/*Header*/
+nav{
+    background-color: #ffffff;
+    height: 200px;
+    width:100%;
+}
+img.logo{
+    line-height:20px;
+    padding: 0 1px;
+}
+div.iconHeader{
+    float: right;
+    line-height: 50px;
+    margin-right: 100px;
+    margin-top: 50px;
+    cursor:pointer;
+}
+.iconHeader i{
+    margin: 0px 5px;
+}
+/*Navigation bar*/
+.navBarList{
+    background-color: #38A3A5;
+    font-family:'Poppins';
+    font-size: 15px;
+    float: right;
+    margin-right: 5px;
+    margin-top:-150px;
+    border-radius: 5px;
+}
+.navBarList li{
+    display:inline-block;
+    line-height: 50px;
+    margin: 0px 50px;
+}
+.navBarList li a{
+    list-style: none;
+    color: #ffffff;
+}
