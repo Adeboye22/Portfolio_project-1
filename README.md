@@ -1,4 +1,4 @@
-# Portfolio_project-1 Ropheka Foundation
+# Portfolio_project-1 
 This project is a platform that helps the organization (Ropheka foundation) reach out to prospective donors for sponsorship of the flood response project.
 It consists of;
 - About us (Homepage)

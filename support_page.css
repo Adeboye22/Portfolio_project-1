@@ -1,0 +1,104 @@
+/* support page*/
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration:none;
+}
+body{
+    margin:0px;
+}
+section.support{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+div.res{
+    padding-left: 3.9em;
+    padding-top: 2.9em;
+    padding-bottom: 3.9em;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 100px;
+    border: 15px ;
+    border-radius: 5px;
+    background-color:rgba(153, 151, 151, 0.288);
+    box-shadow: 1px 3px rgba(0, 0, 0, 0.646);
+}
+div.res:hover{
+    background-color:rgba(2, 165, 157, 0.749);
+    transition:ease-in-out;
+    box-shadow: 1px 7px rgba(0, 0, 0, 0.646);
+}
+div.res h1{
+    font-family: 'Inter';
+    color: green;
+}
+div.res div.res_sup{
+    margin-top:20px;
+    display:flex
+}
+div.resTxt{
+    color:black;
+    font-family: 'inter';
+    font-size: 16px;
+}
+button.resBtn{
+    padding:9px;
+    margin-left: 5em;
+    border-radius: 3px;
+    border: thin;
+    background-color: #22577A;
+    color:white;
+    font-family: 'inter';
+    font-size: 16px;
+    cursor: pointer;
+   
+}
+button.resBtn:hover{
+    background-color: #041e2f;
+}
+div.voc{
+    padding-left: 3.9em;
+    padding-top: 2.9em;
+    padding-bottom: 3.9em;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 100px;
+    border: 15px ;
+    border-radius: 5px;
+    background-color:rgba(153, 151, 151, 0.288);
+    box-shadow: 1px 3px rgba(0, 0, 0, 0.646);
+    font-family: 'Inter';
+}
+div.voc:hover{
+    background-color:rgba(2, 165, 157, 0.749);
+    transition:ease-in-out;
+    box-shadow: 1px 7px rgba(0, 0, 0, 0.646);
+}
+div.voc h1{
+    color: green;
+}
+div.vocTxt{
+    color:black;
+    font-family: 'inter';
+    font-size: 16px;
+}
+div.voc_sup{
+    margin-top:20px;
+    display:flex
+}
+button.vocBtn{
+    padding:9px;
+    margin-left: 5em;
+    border-radius: 3px;
+    border: thin;
+    background-color: #22577A;
+    color:white;
+    font-family: 'inter';
+    font-size: 16px;
+    cursor: pointer;
+}
+button.vocBtn:hover{
+    background-color: #041e2f;
+}
