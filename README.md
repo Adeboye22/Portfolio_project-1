@@ -1,5 +1,5 @@
 # ROPHEKA FOUNDATION
-This project is a platform that helps the organization (Ropheka foundation) reach out to prospective donors for sponsorship of the flood response project. Click this link to access the project [https://github.com/Adeboye22/alxProject-rophekaFoundation.github.io](https://github.com/Adeboye22/alxProject-rophekaFoundation.github.io)
+This project is a platform that helps the organization (Ropheka foundation) reach out to prospective donors for sponsorship of the flood response project. Click the link to access this project [https://github.com/Adeboye22/alxProject-rophekaFoundation.github.io](https://github.com/Adeboye22/alxProject-rophekaFoundation.github.io)
 
 This project consist of;
 - Homepage
