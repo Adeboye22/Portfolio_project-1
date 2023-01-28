@@ -27,9 +27,12 @@ div.table{
     border-radius: 2px;
 }
 div.img{
-    background-image: url("/Images/floodImage-3.jpeg");
-    height:290px;
-    width: 50%;
+    background-image: url("/Images/unity.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: -50px;
+    height:250px;
+    width: 40%;
     border-radius: 5px;
 }
 div.txt{
