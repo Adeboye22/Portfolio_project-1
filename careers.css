@@ -9,3 +9,44 @@
 body{
     margin:0px;
 }
+section{
+    margin-top: 30px;
+}
+h3{
+    margin-left:40%;
+    font-size: 23px;
+}
+div.wrapper{
+    padding: 10px; 
+    margin-top: 40px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+}
+div.table{
+    display:flex;
+    padding: 10px;
+    background-color:rgba(241, 236, 236, 0.984);
+    border-radius: 2px;
+}
+div.img{
+    background-image: url("/Images/floodImage-3.jpeg");
+    height:290px;
+    width: 50%;
+    border-radius: 5px;
+}
+div.txt{
+    margin-left: 3em;
+    margin-top: 3em;
+    font-size: 18px;
+    font-family: 'inter';
+}
+article.link{
+    margin-top: 20px;
+    color:green;
+    font-family: 'inter';
+    font-size: 18px;
+}
+.dropdown{
+    margin-top:15px;
+    margin-left:40px;
+    line-height: 2em;
+}
+
