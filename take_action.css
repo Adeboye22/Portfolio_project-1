@@ -15,7 +15,7 @@ body{
     padding:100px;
 }
 .section-2{
-    background-image: url("/Images/floodImage-5.jpeg");
+    background-image: url("Images/floodImage-5.jpeg");
     width: 50%;
     height:30em;
     background-position-x:-400px;

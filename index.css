@@ -12,7 +12,7 @@ body{
 /*Hero section*/
 section.hero{
     padding: 100px 0px 150px 0px;
-    background-image: url("/Images/floodImage-4.jpeg");
+    background-image: url("Images/floodImage-4.jpeg");
     background-size:cover;
     width:98%;
     left: 10px;
@@ -67,7 +67,7 @@ section.aboutUs div.aboutUs_1{
     font-size:18px;
 }
 article.aboutUs_2{
-    background-image: url("/Images/floodImage-1.jpeg");
+    background-image: url("Images/floodImage-1.jpeg");
     background-repeat: no-repeat;
     background-size:cover;
     background-position-y:center;

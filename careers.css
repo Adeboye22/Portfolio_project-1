@@ -27,7 +27,7 @@ div.table{
     border-radius: 2px;
 }
 div.img{
-    background-image: url("/Images/unity.jpg");
+    background-image: url("Images/unity.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: -50px;
