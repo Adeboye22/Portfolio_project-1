@@ -24,10 +24,10 @@ div.res{
     border-radius: 5px;
     background-color:rgba(153, 151, 151, 0.288);
     box-shadow: 1px 3px rgba(0, 0, 0, 0.646);
+    transition:0.5s;
 }
 div.res:hover{
     background-color:rgba(2, 165, 157, 0.749);
-    transition:ease-in-out;
     box-shadow: 1px 7px rgba(0, 0, 0, 0.646);
 }
 div.res h1{
@@ -53,7 +53,7 @@ button.resBtn{
     font-family: 'inter';
     font-size: 16px;
     cursor: pointer;
-   
+    transition:0.3s;
 }
 button.resBtn:hover{
     background-color: #041e2f;
@@ -70,6 +70,7 @@ div.voc{
     background-color:rgba(153, 151, 151, 0.288);
     box-shadow: 1px 3px rgba(0, 0, 0, 0.646);
     font-family: 'Inter';
+    transition: 0.5s;
 }
 div.voc:hover{
     background-color:rgba(2, 165, 157, 0.749);
@@ -98,6 +99,7 @@ button.vocBtn{
     font-family: 'inter';
     font-size: 16px;
     cursor: pointer;
+    transition:0.3s;
 }
 button.vocBtn:hover{
     background-color: #041e2f;
