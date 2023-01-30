@@ -9,3 +9,51 @@
 body{
     margin:0px;
 }
+section{
+    padding:50px;
+    display:flex;
+    width:100%;
+    justify-content: center;
+}
+div.vol{
+    background-color: rgb(219, 209, 209);
+    margin-top:50px;
+    border-radius: 5px;
+    padding-bottom:100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    line-height: 35px;
+}
+div.vol img{
+    width:100%;
+    margin-top: 10px;
+}
+div.vol h3{
+    text-align: center;
+    margin-top:30px;
+    margin-bottom: 20px;
+}
+div.TAS{
+    margin-left:100px;
+
+}
+div.VOTC{
+    margin-top:50px;
+    background-color: rgb(219, 209, 209);
+    margin-top:50px;
+    border-radius: 5px;
+    padding-bottom:100px;
+    padding-left: 10px;
+    padding-right:10px;
+    line-height: 35px
+}
+div.VOTC img{
+    width: 100%;
+    margin-top: 10px;
+    border-radius:5px;
+}
+div.VOTC h3{
+    text-align: center;
+    margin-top:30px;
+    margin-bottom: 20px;
+}
