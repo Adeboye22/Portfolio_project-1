@@ -25,16 +25,6 @@ div.vol{
     padding-right: 10px;
     line-height: 35px;
     box-shadow:0px 5px rgba(0, 0, 0, 0.406) inset;
-    
-}
-div.vol:hover{
-    animation-name: vol;
-    animation-timing-function: ease;
-}
-@keyframes vol {
-    0% {transform: translateY(0);}
-    50% {transform: translateY(-20px);}
-    100% {transform: translateY(0px);}
 }
 div.vol img{
     width:100%;
