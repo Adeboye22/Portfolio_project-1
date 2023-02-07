@@ -1,3 +1,3 @@
-$.get("navigation.html", function(header){
-    $("#navPlaceholder").replaceWith("header");
-});
+ function myFunction(){
+    document.getElementById("demo").innerHtml = "window.Locat"credit_card.html";
+}

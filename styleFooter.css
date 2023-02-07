@@ -60,4 +60,9 @@ div.footer_3ii li button{
     font-size: 16px;
     background-color: #22577A;
     color: white;
+    cursor: pointer;
+    transition:0.5s ease-in-out;
+}
+div.footer_3ii li button:hover{
+    background-color: #051e2e;
 }

@@ -50,6 +50,10 @@ button.hero_2{
     background-color: #22577A;
     color:white;
     cursor: pointer;
+    transition:0.5s ease-in-out;
+}
+button.hero_2:hover{
+    background-color: #051e2e;
 }
 /*About us section*/
 section.aboutUs h1{
@@ -110,6 +114,9 @@ div.aboutUs_4 button{
     font-size: 18px;
     word-spacing: 2px;
     cursor:pointer;
+    transition:0.5s ease-in-out;
 }
-
+div.aboutUs_4 button:hover{
+    background-color: #051e2e;
+}
 

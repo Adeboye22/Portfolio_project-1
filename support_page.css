@@ -24,11 +24,12 @@ div.res{
     border-radius: 5px;
     background-color:rgba(153, 151, 151, 0.288);
     box-shadow: 1px 3px rgba(0, 0, 0, 0.646);
-    transition:0.5s;
+    transition:0.5s ease-in-out;
 }
 div.res:hover{
     background-color:rgba(2, 165, 157, 0.749);
     box-shadow: 1px 7px rgba(0, 0, 0, 0.646);
+    transition: 0.5s;
 }
 div.res h1{
     font-family: 'Inter';
@@ -70,11 +71,11 @@ div.voc{
     background-color:rgba(153, 151, 151, 0.288);
     box-shadow: 1px 3px rgba(0, 0, 0, 0.646);
     font-family: 'Inter';
-    transition: 0.5s;
+    transition: 0.5s ease-in-out;
 }
 div.voc:hover{
     background-color:rgba(2, 165, 157, 0.749);
-    transition:ease-in-out;
+    transition:0.5s;
     box-shadow: 1px 7px rgba(0, 0, 0, 0.646);
 }
 div.voc h1{

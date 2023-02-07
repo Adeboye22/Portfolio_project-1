@@ -43,8 +43,12 @@ div.iconHeader {
     list-style: none;
     color: #ffffff;
 }
+.navBarList li a:hover{
+    transition: 0.5s;
+}
 .navBarList li a.home{
     color: yellow;
+    transition:0.5s ease-in;
 }
 .navBarList li a.careers{
     color:yellow;
